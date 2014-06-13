@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/Rugvip/node-ytl/issues"
   },
-  "homepage": "https://github.com/Rugvip/node-ytl"
+  "homepage": "https://github.com/Rugvip/node-ytl",
+  "dependencies": {
+    "ytdl": "~0.2.8"
+  }
 }
