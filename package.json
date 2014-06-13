@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/Rugvip/node-ytl",
   "dependencies": {
-    "ytdl": "~0.2.8"
+    "ytdl": "~0.2.8",
+    "lodash": "~2.4.1"
   }
 }
